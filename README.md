@@ -6,3 +6,5 @@ This is a set of answers to various software programming exercises. So far it co
 * **partition.py**: find a balanced partition of users across shards
 
 ![alt text](https://github.com/sjmoran/coding_questions/blob/master/maze.png)
+![alt text](https://github.com/sjmoran/coding_questions/blob/master/partition.png)
+
