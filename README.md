@@ -5,4 +5,4 @@ This is a set of answers to various software programming exercises. So far it co
 * **maze.py**: find if two points are connected in a maze
 * **partition.py**: find a balanced partition of users across shards
 
-(./maze.png)
+(https://github.com/sjmoran/coding_questions/blob/master/maze.png)
